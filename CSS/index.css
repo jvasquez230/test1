@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+}
+h1#Tema{
+    background-color: darkgreen; 
+    background-image: url('../imagen/seminario.jpg')
+    
+}
+h3#Sub-tema{
+    color:red;
+    background-color: blue;
+    margin-right: 95%;
+    
+
+
+}
